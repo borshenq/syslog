@@ -2,3 +2,4 @@ syslog
 ======
 
 syslog
+time
